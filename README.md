@@ -1,5 +1,5 @@
  <h1>AirBnB Clone Project</h1>
-   <img align="center" alt="AirBnB" width="100%" src="https://user-images.githubusercontent.com/79994012/203217064-1a6b7914-a312-4996-9ac5-d6bb7d3de037.jpg">
+   <img align="center" alt="AirBnB" width="100%" src="https://user-images.githubusercontent.com/79994012/203217668-ea264e24-ce55-465f-a942-ddcb4a13718d.png">
       <h2>Project Description</h2>
       <p>
       This is the Part I of the AirBnB project. We worked on the backend of the project,
